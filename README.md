@@ -5,13 +5,11 @@
 
 ## Sobre mim: 
 
+<img src="https://github.com/MaiiaraSeixas/MaiiaraSeixas/assets/151777904/150e80d7-d6b5-4aaa-94d5-7aa7f7d81949" width=30% height=30%>
+
 Como Front-End Developer, possuo uma curiosidade inata e uma mente criativa, aliadas a uma necessidade voraz de desenvolver ideias e criar soluções inovadoras. Acredito profundamente no potencial da tecnologia para transformar positivamente a qualidade de vida das pessoas e para gerar impacto social significativo. Por meio do desenvolvimento de aplicações que promovam a educação, a inclusão e a equidade, viso contribuir para a construção de uma sociedade mais justa e igualitária.
 
 Meu objetivo primordial é converter produtos e serviços em soluções eficientes e acessíveis, que proporcionem experiências enriquecedoras e intuitivas para os usuários. Esta missão não é apenas uma aspiração profissional, mas sim uma fonte de inspiração constante que impulsiona minha jornada na área da Tecnologia.
-
-
-<img src="![octocat-1712068609927](https://github.com/MaiiaraSeixas/MaiiaraSeixas/assets/151777904/150e80d7-d6b5-4aaa-94d5-7aa7f7d81949)
-" width=50% height=50%>
 
 ## Ferramentas e tecnologias: 
 
