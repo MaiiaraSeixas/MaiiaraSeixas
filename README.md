@@ -33,7 +33,6 @@ Meu objetivo primordial é converter produtos e serviços em soluções eficient
 </div>
 
 
-![Snake animation](https://github.com/MaiiaraSeixas/MaiiaraSeixas/blob/output/github-contribution-grid-snake.svg)
 
 
 
